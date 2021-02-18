@@ -1,0 +1,5 @@
+name: Io.github.kubawis128
+version: ${project.version}
+main: io.github.kubawis128.main
+api-version: 1.15
+description: Temp Bam o ded
